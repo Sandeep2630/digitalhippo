@@ -24,9 +24,7 @@ export default function Home() {
         </div>
         {/* Todo products */}
       </MaxWidthWrapper>
-      <section className="border-t ">
-
-      </section>
+      <section className="border-t "></section>
     </>
   );
 }
